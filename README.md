@@ -21,4 +21,4 @@ const eduardo = {
 }
 ```
 
-_**Love to connect with different people** so if you want to say hi, feel free! **I'll be happy to meet you more** :)_
+_👽 **Love to connect with different people** so if you want to say hi, feel free! **I'll be happy to meet you more** :) 🥑_
