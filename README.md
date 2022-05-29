@@ -10,13 +10,13 @@
 ```javascript
 const eduardo = {
   pronouns: "He" | "Him",
-  askMeAbout: ["mobile dev", "tech", "opencv", "solar energy"],
+  askMeAbout: ["mobile dev", "tech", "open source", "solar energy"],
   code: [Dart, Python, JavaScript],
   tech: {
       tools: ["flutter", "node.js"],
       misc: ["firebase", "selenium", "openCV"],
       },
-  challenge: "Currently doing the #100DaysOfCode challenge focused on python and openCV",
+  challenge: "Currently focusing in flutter apps for iOS and Android",
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
