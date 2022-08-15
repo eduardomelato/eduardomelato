@@ -1,6 +1,5 @@
 ## Hi, I'm Eduardo! 👋
 *Electrical Engineering student at [UNESP](https://www2.unesp.br)*  
-*Software Developer at [aegro](https://aegro.com.br)*  
 
 [![Twitter: dumelato](https://img.shields.io/twitter/follow/dumelato?style=social)](https://twitter.com/dumelato) 
 [![Linkedin: eduardo-melato](https://img.shields.io/badge/-eduardomelato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/eduardo-melato/)
