@@ -14,7 +14,7 @@ const eduardo = {
       ferramentas: ["flutter", "node.js"],
       outros: ["firebase", "selenium", "openCV"],
       },
-  desafios: "Atualmente estudando para me tornar um dev full-stack",
+  desafios: "Atualmente estudando análise de dados ligado ao desenvolvimento mobile",
   funFact: "Existem duas maneiras de escrever códigos sem erros; Só a terceira maneira funciona"
 }
 ```
