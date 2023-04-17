@@ -9,7 +9,7 @@
 const eduardo = {
   pronomes: "Ele" | "Dele",
   askMeAbout: ["dados", "futebol", "open source", "energia solar"],
-  linguagens: [SQL, Python, JavaScript],
+  linguagens: [Dart, Python, JavaScript],
   tech: {
       ferramentas: ["flutter", "node.js", "Power BI"],
       outros: ["firebase", "selenium", "openCV"],
