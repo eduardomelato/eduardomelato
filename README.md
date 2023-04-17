@@ -8,14 +8,14 @@
 ```javascript
 const eduardo = {
   pronomes: "Ele" | "Dele",
-  askMeAbout: ["desenvolvimento mobile", "tech", "open source", "energia solar"],
-  linguagens: [Dart, Python, JavaScript],
+  askMeAbout: ["dados", "futebol", "open source", "energia solar"],
+  linguagens: [SQL, Python, JavaScript],
   tech: {
-      ferramentas: ["flutter", "node.js"],
+      ferramentas: ["flutter", "node.js", "Power BI"],
       outros: ["firebase", "selenium", "openCV"],
       },
-  desafios: "Atualmente estudando análise de dados ligado ao desenvolvimento mobile",
-  funFact: "Existem duas maneiras de escrever códigos sem erros; Só a terceira maneira funciona"
+  desafios: "Atualmente estudando análise de dados ligado ao esporte!",
+  funFact: "Estou aprendendo LIBRAS!"
 }
 ```
 ### Experiência de trabalho
@@ -24,7 +24,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Aegro" src="https://yt3.ggpht.com/WLE-A0hPY5NjT0t5CStfggki0_axM77L1sNvhCxEb1rPsIBpDi4AN14gGtZkV1nvPidnYvH_mA=s900-c-k-c0x00ffffff-no-rj"/>](https://aegro.com.br)
 
 **Estagiário de Desenvolvimento Mobile** \
-[**Aegro**](https://nubank.com.br/) • Estágio \
+[**Aegro**](https://aegro.com.br) • Estágio \
 Linguagens & Tecnologias: `Flutter`, `Dart`, `JavaScript`, `SQL` \
 Projetos em destaque: [App](https://aegro.com.br)
 <br/>
